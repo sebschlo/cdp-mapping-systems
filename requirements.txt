@@ -21,6 +21,7 @@ click==8.1.7
 click-plugins==1.1.1
 cligj==0.7.2
 comm==0.2.2
+contextily==1.6.0
 contourpy==1.2.1
 cycler==0.12.1
 debugpy==1.8.1
@@ -33,7 +34,9 @@ fiona==1.9.6
 folium==0.16.0
 fonttools==4.51.0
 fqdn==1.5.1
+geographiclib==2.0
 geopandas==0.14.4
+geopy==2.4.1
 greenlet==3.0.3
 h3==3.7.7
 idna==3.7
@@ -41,7 +44,9 @@ imagesize==1.4.1
 importlib_metadata==7.1.0
 ipykernel==6.29.4
 ipyleaflet==0.19.1
+ipympl==0.9.4
 ipython==8.24.0
+ipython-genutils==0.2.0
 ipywidgets==8.1.2
 isoduration==20.11.0
 jedi==0.19.1
@@ -73,6 +78,7 @@ matplotlib==3.9.0
 matplotlib-inline==0.1.7
 mdit-py-plugins==0.4.1
 mdurl==0.1.2
+mercantile==1.2.1
 mistune==3.0.2
 mypy-extensions==1.0.0
 myst-nb==1.1.0
@@ -123,6 +129,7 @@ rfc3986-validator==0.1.1
 rpds-py==0.18.1
 scikit-learn==1.5.0
 scipy==1.13.0
+seaborn==0.13.2
 Send2Trash==1.8.3
 shapely==2.0.4
 six==1.16.0

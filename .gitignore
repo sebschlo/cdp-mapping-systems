@@ -7,3 +7,4 @@ wip/
 Book/
 _config.yml
 _toc.yml
+*.geojson
